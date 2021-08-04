@@ -1,1 +1,1 @@
-# Linear-SVM-Kernel-Trick
+# Linear SVM with Kernel Trick
